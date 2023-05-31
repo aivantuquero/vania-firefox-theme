@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "vania-nightly-theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-005-f5f3cf677b1f132c75ddc7bd319dd1fc.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 27, 33)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(0, 255, 200)",
+      "popup": "rgba(72, 102, 96, 0.67)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(0, 255, 200)"
+    }
+  }
+}
